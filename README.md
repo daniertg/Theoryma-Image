@@ -18,6 +18,8 @@ git clone https://github.com/daniertg/Theoryma_Image.git
 ```shell
 cd Theoryma_Image
 ```
+### install python(jika belum pernah install)
+Jika Anda belum pernah menginstal Python, maka instal [cara berikut](https://www.petanikode.com/python-windows/).
 ### Install Dependencies
 ```shell
 pip install pymupdf pillow pdf2image
