@@ -12,11 +12,11 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini.
 ### Clone Repository
 Clone repository ini menggunakan git:
 ```shell
-git clone https://github.com/daniertg/Theoryma_Image.git
+git clone https://github.com/daniertg/Theoryma-Image.git
 ```
 #### kemudian pindah ke folder Theoryma_Image
 ```shell
-cd Theoryma_Image
+cd Theoryma-Image
 ```
 ### Install Python (jika belum pernah install)
 Jika Anda belum pernah menginstal Python, maka instal [cara berikut](https://www.petanikode.com/python-windows/).
